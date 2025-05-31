@@ -30,3 +30,8 @@ The durations are defined in `interval_items_list.txt`
 By default they are like this:
 
 ![image](https://github.com/user-attachments/assets/c1dc68db-7252-4927-890d-2bc134c3920d)
+
+
+<hr>
+
+Compiling info: the files in the `out/` folder need to be where the program was built
