@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/d36ae59b-00e5-47b1-a115-5744aff7bb42
 <hr>
 
 # Why this app exists?
-Well, I found that timekeeping apps make me eventually want to ignore their notifications, which ends up making me procrastinate taking a break, defeating the whole purpose!
+Well, I found that timekeeping apps make me eventually want to ignore their notifications and actually procrastinate taking a break, defeating the whole purpose!
 
 
 
@@ -34,4 +34,4 @@ By default they are like this:
 
 <hr>
 
-Compiling info: the files in the `out/` folder need to be where the program was built
+If you want to build the program yourself, the files in the `out/` folder need to be where the program was built
