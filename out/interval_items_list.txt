@@ -1,0 +1,13 @@
+// each line creates a new entry in the "Set Interval" menu
+// values are in minutes
+
+120		// 2 hours
+90		// 1.5 hours
+60
+30
+20
+15
+10
+5
+1
+0.0833334	// 5 sec
